@@ -16,7 +16,7 @@ Lightweight, simple, fast, thread-safe Go stack using generics.
 ## Usage
 ### Installation
 ```shell
-go get github.com/gonerics/stack
+go get github.com/goneric/stack
 ```
 
 ### Examples
